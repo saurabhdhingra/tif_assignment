@@ -1,16 +1,15 @@
-# tif_assignment
 
-A new Flutter project.
+# The Internet Folks Internship Assignment
 
-## Getting Started
+Saurabh Dhingra
 
-This project is a starting point for a Flutter application.
+Instagram Blog - https://www.instagram.com/captainrogers20/
 
-A few resources to get you started if this is your first Flutter project:
+Google Developer Profile - https://play.google.com/store/apps/details?id=com.saurabh.journo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hashnode - https://saurabhdhingraa.hashnode.dev/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+LinkedIn - https://www.linkedin.com/in/saurabhdhingraa/
+
+
+
